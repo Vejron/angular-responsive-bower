@@ -1,0 +1,16 @@
+{
+    "name": "angular-responsive",
+    "description": "Responsive directives for AngularJS",
+    "main": "./dist/angular-responsive.js",
+    "version": "0.5.0",
+    "devDependencies": {
+        "angular": "~1.5.3",
+        "angular-mocks": "~1.5.3"
+    },
+    "keywords": [
+        "angular",
+        "responsive"
+    ],
+    "dependencies": {},
+    "license": "MIT"
+}
